@@ -1,0 +1,706 @@
+{
+  "name": "Weeb the Spire",
+  "game_version": null,
+  "created_by": "sts2-mod-manager",
+  "mods": [
+    {
+      "name": "Ascender's Sandbox",
+      "version": "v1.1.1",
+      "source": null,
+      "hash": "7f06fd24bbc4259b94e3fa2d0ed041f4fa984cae06d5394d99fa1274d380f75d",
+      "files": [
+        "Ascender's Sandbox\\Ascenders Sandbox.dll",
+        "Ascender's Sandbox\\Ascenders Sandbox.json",
+        "Ascender's Sandbox\\config.json",
+        "Ascender's Sandbox\\lang\\de.json",
+        "Ascender's Sandbox\\lang\\en.json",
+        "Ascender's Sandbox\\lang\\es-419.json",
+        "Ascender's Sandbox\\lang\\es.json",
+        "Ascender's Sandbox\\lang\\fr.json",
+        "Ascender's Sandbox\\lang\\it.json",
+        "Ascender's Sandbox\\lang\\ja.json",
+        "Ascender's Sandbox\\lang\\ko.json",
+        "Ascender's Sandbox\\lang\\pl.json",
+        "Ascender's Sandbox\\lang\\pt-BR.json",
+        "Ascender's Sandbox\\lang\\ru.json",
+        "Ascender's Sandbox\\lang\\th.json",
+        "Ascender's Sandbox\\lang\\tr.json",
+        "Ascender's Sandbox\\lang\\zh.json"
+      ],
+      "folder_name": "Ascender's Sandbox",
+      "mod_id": "Ascenders Sandbox",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/Ascender_s_Sandbox_1.1.1.zip"
+    },
+    {
+      "name": "BaseLib",
+      "version": "v3.1.2",
+      "source": "github:Alchyr/BaseLib-StS2",
+      "hash": "e8ec6dda30f0e7c67858e42d47c234f0ace2eea8a41b9857c857f9f87f93180c",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/BaseLib_3.1.2.zip"
+    },
+    {
+      "name": "BetterRewards",
+      "version": "1.2.0",
+      "source": "github:customjack/sts2_BetterRewards",
+      "hash": "ff4915662cc37191a2ffceb2c55b645fcb16d57411e4b7edda60e7574e57634d",
+      "files": [
+        "BetterRewards\\BetterRewards.dll",
+        "BetterRewards\\BetterRewards.json",
+        "BetterRewards\\BetterRewards.pck"
+      ],
+      "folder_name": "BetterRewards",
+      "mod_id": "BetterRewards",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/BetterRewards_1.2.0.zip"
+    },
+    {
+      "name": "BetterSpire2",
+      "version": "v1.82.2",
+      "source": null,
+      "hash": "6457cc7006919376b4f435777b339ff9a7286f91dafc0a696c6215365d14caa9",
+      "files": [
+        "BetterSpire2\\BetterSpire2.dll",
+        "BetterSpire2\\BetterSpire2.json",
+        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
+      ],
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/BetterSpire2_1.82.2.zip"
+    },
+    {
+      "name": "Card Editor",
+      "version": "5.4",
+      "source": null,
+      "hash": "176af07580beddbbe59a3fd5ab689efe1056f321c33e7a42c40f890a1f0318b3",
+      "files": [
+        "Card editor and Creator\\assets\\back_button_base_texture.png",
+        "Card editor and Creator\\assets\\back_button_outline_texture.png",
+        "Card editor and Creator\\assets\\base_deck_button_asset.tscn",
+        "Card editor and Creator\\assets\\base_deck_button_outline_override.png",
+        "Card editor and Creator\\assets\\base_deck_button_texture_override.png",
+        "Card editor and Creator\\assets\\compressed_0.png",
+        "Card editor and Creator\\assets\\hsv.gdshader",
+        "Card editor and Creator\\assets\\kreon_bold.ttf",
+        "Card editor and Creator\\assets\\README.md",
+        "Card editor and Creator\\assets\\Redtail 3.png",
+        "Card editor and Creator\\assets\\RedTail.png",
+        "Card editor and Creator\\assets\\RedTAIL2.png",
+        "Card editor and Creator\\assets\\ui_atlas_1.png",
+        "Card editor and Creator\\assets\\White Background 3.png",
+        "Card editor and Creator\\assets\\White background.png",
+        "Card editor and Creator\\assets\\White3.png",
+        "Card editor and Creator\\card art\\20260203_033757.jpg",
+        "Card editor and Creator\\card art\\20260407_213131.jpg",
+        "Card editor and Creator\\card art\\59b78a34809d100997db0b3b128fab56.jpg",
+        "Card editor and Creator\\card art\\6eac079f85ace30fc647a4346f392671.jpg",
+        "Card editor and Creator\\card art\\dabc4cef852a16c97a17ec1c2cf98526.jpg",
+        "Card editor and Creator\\card art\\diancie_pokemon_drawn_by_kawaanago_-_8992a94e1cfa1fd8391e1af5fbf3ac64.png",
+        "Card editor and Creator\\card art\\f05114506cf2dbf10c3a8bc3fa5fcaa5.jpg",
+        "Card editor and Creator\\card art\\f202cdcee873bb2b92905a8a9fb925bd.jpg",
+        "Card editor and Creator\\card art\\fe8d3be54b9ef9be7d6917766c07d0f7.jpg",
+        "Card editor and Creator\\card art\\inugami_korone_hololive_drawn_by_nabe_nabe_otome_-_fadb8a2aa40ea03060d2267869dfe9a6.jpg",
+        "Card editor and Creator\\card art\\put_your_images_here.txt",
+        "Card editor and Creator\\card art\\Screenshot_9.png",
+        "Card editor and Creator\\card_editor.dll",
+        "Card editor and Creator\\card_editor.json",
+        "Card editor and Creator\\card_editor.pck",
+        "Card editor and Creator\\card_editor.pdb",
+        "Card editor and Creator\\card_editor_settings.txt",
+        "Card editor and Creator\\custom icons\\README.txt",
+        "Card editor and Creator\\localization\\eng\\extensions.loc",
+        "Card editor and Creator\\localization\\eng\\settings_ui.loc",
+        "Card editor and Creator\\localization\\kor\\extensions.loc",
+        "Card editor and Creator\\localization\\kor\\settings_ui.loc",
+        "Card editor and Creator\\localization\\zhs\\extensions.loc",
+        "Card editor and Creator\\localization\\zhs\\settings_ui.loc",
+        "Card editor and Creator\\README.txt",
+        "Card editor and Creator\\TUTORIAL.txt",
+        "Card editor and Creator\\TUTORIAL_kor.txt",
+        "Card editor and Creator\\TUTORIAL_zhs.txt"
+      ],
+      "folder_name": "Card editor and Creator",
+      "mod_id": "card_editor",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/Card_Editor_5.4.zip"
+    },
+    {
+      "name": "CardsAndRelicsChooser.deps",
+      "version": "0.0.0",
+      "source": null,
+      "hash": "889949034e2ccddbde50d4436b39a8a71f5217dc3dcfbea1ef431d53d4387afd",
+      "files": [
+        "CardsAndRelicsChooser\\CardsAndRelicsChooser.deps.json",
+        "CardsAndRelicsChooser\\CardsAndRelicsChooser.dll",
+        "CardsAndRelicsChooser\\CardsAndRelicsChooser.pdb",
+        "CardsAndRelicsChooser\\cards_and_relics_hotkeys.json",
+        "CardsAndRelicsChooser\\cards_and_relics_sidebar_layout.json",
+        "CardsAndRelicsChooser\\logs\\cards_and_relics_chooser.log",
+        "CardsAndRelicsChooser\\mod_manifest.json"
+      ],
+      "folder_name": "CardsAndRelicsChooser",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/CardsAndRelicsChooser_deps_0.0.0.zip"
+    },
+    {
+      "name": "Classic Mode",
+      "version": "0.1.4.2",
+      "source": null,
+      "hash": "5c9e94b8209d1950dd7ab762332c97c50e1a1952e1d26d578c81f03954315d66",
+      "files": [
+        "Classic Mode\\ClassicMode-0.1.4.zip",
+        "Classic Mode\\ClassicMode.dll",
+        "Classic Mode\\ClassicMode.json",
+        "Classic Mode\\ClassicMode.pck",
+        "Classic Mode\\classic_config.json"
+      ],
+      "folder_name": "Classic Mode",
+      "mod_id": "ClassicMode",
+      "enabled": true
+    },
+    {
+      "name": "DeckStats",
+      "version": "v1.0.0",
+      "source": null,
+      "hash": "ffec30003dad0191a7a2975a0b0cdb5399733baf8b9b98ed6d299ef2b1817a7d",
+      "files": [
+        "DeckStats\\DeckStats.dll",
+        "DeckStats\\DeckStats.json"
+      ],
+      "folder_name": "DeckStats",
+      "mod_id": "DeckStats",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/DeckStats_1.0.0.zip"
+    },
+    {
+      "name": "DefectSkin_AD",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "df9e91f0a2bdfa9040fcac29b4b658343cca2eece22fc5fb30d68033d77b25c4",
+      "files": [
+        "DefectSkin_AD\\DefectSkin_AD.json",
+        "DefectSkin_AD\\DefectSkin_AD.pck"
+      ],
+      "folder_name": "DefectSkin_AD",
+      "mod_id": "DefectSkin_AD",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/DefectSkin_AD_0.1.0.zip"
+    },
+    {
+      "name": "HellBandGirls",
+      "version": "0.1.2",
+      "source": null,
+      "hash": "7f78bdcd7ca5bad4a1d54122ee79aae3caf0aa8d1eba14ffd24ae1e31c6b1aa0",
+      "files": [
+        "HellBand\\HellBandMod.dll",
+        "HellBand\\HellBandMod.json",
+        "HellBand\\HellBandMod.pck"
+      ],
+      "folder_name": "HellBand",
+      "mod_id": "HellBandMod",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/HellBandGirls_0.1.2.zip"
+    },
+    {
+      "name": "KaguyaRegentMSGKSkin",
+      "version": "v0.1",
+      "source": null,
+      "hash": "ce9b5473d9040e953f36f10e1e635cf3544ed2619a87881c44fc8fbac21d8cdb",
+      "files": [
+        "KaguyaRegent\\KaguyaRegentMSGKSkin.dll",
+        "KaguyaRegent\\KaguyaRegentMSGKSkin.json",
+        "KaguyaRegent\\KaguyaRegentMSGKSkin.pck"
+      ],
+      "folder_name": "KaguyaRegent",
+      "mod_id": "KaguyaRegentMSGKSkin",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/KaguyaRegentMSGKSkin_0.1.zip"
+    },
+    {
+      "name": "Library Of Ruina",
+      "version": "v0.4.0[public/beta]",
+      "source": null,
+      "hash": "99e6f1a61d2865b639720c9ed59af574883ccb79fafa020e8b8a4fb9498528c8",
+      "files": [
+        "LibraryOfRuina\\LibraryOfRuina\\config\\intentgraph_display.jsonc",
+        "LibraryOfRuina\\LibraryOfRuina\\config\\multiplayer_scaling.jsonc",
+        "LibraryOfRuina\\LibraryOfRuina\\config\\MULTIPLAYER_SCALING_BEGINNER_GUIDE.zh-CN.md",
+        "LibraryOfRuina\\LibraryOfRuina\\LibraryOfRuina.dll",
+        "LibraryOfRuina\\LibraryOfRuina\\LibraryOfRuina.json",
+        "LibraryOfRuina\\LibraryOfRuina\\LibraryOfRuina.pck"
+      ],
+      "folder_name": "LibraryOfRuina",
+      "mod_id": "LibraryOfRuina",
+      "enabled": true
+    },
+    {
+      "name": "ModManagerSettings",
+      "version": "1.1.1",
+      "source": null,
+      "hash": "abcec1a51e6af3f2b07518b98e7ca55c7fd0551bf5f76d5fdf4c6ab211285daf",
+      "files": [
+        "ModManagerSettings\\ModManagerSettings.dll",
+        "ModManagerSettings\\ModManagerSettings.json",
+        "ModManagerSettings\\ModManagerSettings.pck"
+      ],
+      "folder_name": "ModManagerSettings",
+      "mod_id": "ModManagerSettings",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/ModManagerSettings_1.1.1.zip"
+    },
+    {
+      "name": "ModSync",
+      "version": "v1.04",
+      "source": null,
+      "hash": "fcb5039bee914ffd587f298ba34f7d80c6b298dd5523c96e672f5166417ddb21",
+      "files": [
+        "ModSync\\ModSync.dll",
+        "ModSync\\ModSync.json",
+        "ModSync\\ModSync.pck"
+      ],
+      "folder_name": "ModSync",
+      "mod_id": "ModSync",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/ModSync_1.04.zip"
+    },
+    {
+      "name": "More Ascensions",
+      "version": "v1.0.0",
+      "source": null,
+      "hash": "52053ec38c1e3a0db37a370c5b193656360602df71a75f871c39ede2ee69e47b",
+      "files": [
+        "MoreAscensions\\MoreAscensions.dll",
+        "MoreAscensions\\MoreAscensions.json",
+        "MoreAscensions\\MoreAscensions.pck"
+      ],
+      "folder_name": "MoreAscensions",
+      "mod_id": "MoreAscensions",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/More_Ascensions_1.0.0.zip"
+    },
+    {
+      "name": "MultiEnchantmentMod",
+      "version": "v1.1-beta2",
+      "source": null,
+      "hash": "397f0977c1f33922efaca3ae96014c2035fdc736d6db999398fe7374e84e1cbd",
+      "files": [
+        "MultiEnchantmentMod\\MultiEnchantmentMod.dll",
+        "MultiEnchantmentMod\\MultiEnchantmentMod.json",
+        "MultiEnchantmentMod\\MultiEnchantmentMod.pck"
+      ],
+      "folder_name": "MultiEnchantmentMod",
+      "mod_id": "MultiEnchantmentMod",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/MultiEnchantmentMod_1.1-beta2.zip"
+    },
+    {
+      "name": "Necrobinder Osty Vaalmonica Mod",
+      "version": "0.9.2",
+      "source": null,
+      "hash": "ae3856c0df495a7240095bc52de4ecdc848093864dbb3084797a981b48c5921f",
+      "files": [
+        "NecrobinderOstyVaalmonicaMod\\NecrobinderOstyVaalmonicaMod.dll",
+        "NecrobinderOstyVaalmonicaMod\\NecrobinderOstyVaalmonicaMod.json",
+        "NecrobinderOstyVaalmonicaMod\\NecrobinderOstyVaalmonicaMod.pck"
+      ],
+      "folder_name": "NecrobinderOstyVaalmonicaMod",
+      "mod_id": "NecrobinderOstyVaalmonicaMod",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/Necrobinder_Osty_Vaalmonica_Mod_0.9.2.zip"
+    },
+    {
+      "name": "NecroCastoriceCards",
+      "version": "1.0",
+      "source": null,
+      "hash": "cb85f9943fed58d1cc0832785c4a01ed3051e3ffbdcdc4c9c39ab32be80eb0c1",
+      "files": [
+        "NecroCastoriceCards\\NecroCastoriceCards.dll",
+        "NecroCastoriceCards\\NecroCastoriceCards.json",
+        "NecroCastoriceCards\\NecroCastoriceCards.pck"
+      ],
+      "folder_name": "NecroCastoriceCards",
+      "mod_id": "NecroCastoriceCards",
+      "enabled": true
+    },
+    {
+      "name": "PermaProg",
+      "version": "v0.6.1",
+      "source": null,
+      "hash": "b84ad9602dde7eed019e3d3d8fc00d4486bdd045150d9b463f50d7abfda7854b",
+      "files": [
+        "PermaProg\\PermaProg.dll",
+        "PermaProg\\PermaProg.json",
+        "PermaProg\\PermaProg.pck"
+      ],
+      "folder_name": "PermaProg",
+      "mod_id": "PermaProg",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/PermaProg_0.6.1.zip"
+    },
+    {
+      "name": "Portalcraft",
+      "version": "v0.2.7",
+      "source": null,
+      "hash": "66168269d2535a39e9854e6571ed2eb29a1e83c37f7fa861744cdd4915a2fc4a",
+      "files": [
+        "sts2_char_portalcraft\\sts2_char_portalcraft.dll",
+        "sts2_char_portalcraft\\sts2_char_portalcraft.json",
+        "sts2_char_portalcraft\\sts2_char_portalcraft.pck"
+      ],
+      "folder_name": "sts2_char_portalcraft",
+      "mod_id": "sts2_char_portalcraft",
+      "enabled": true
+    },
+    {
+      "name": "PrincessPatch",
+      "version": "v1.2.0",
+      "source": null,
+      "hash": "e6fc09931b6d38e463db7c84f00e37339af8a1af02b4162976cc1dbaebf7a449",
+      "files": [
+        "PrincessPatch\\PrincessPatch.dll",
+        "PrincessPatch\\PrincessPatch.json",
+        "PrincessPatch\\PrincessPatch.pck"
+      ],
+      "folder_name": "PrincessPatch",
+      "mod_id": "PrincessPatch",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/PrincessPatch_1.2.0.zip"
+    },
+    {
+      "name": "RefreshAncient",
+      "version": "v1.3.3",
+      "source": null,
+      "hash": "d8d480115a53dd037d95ca0b42d3389c698a298279fe7c1b454ab96ca7122dd3",
+      "files": [
+        "RefreshAncient\\RefreshAncient.dll",
+        "RefreshAncient\\RefreshAncient.json",
+        "RefreshAncient\\RefreshAncient.pck"
+      ],
+      "folder_name": "RefreshAncient",
+      "mod_id": "RefreshAncient",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/RefreshAncient_1.3.3.zip"
+    },
+    {
+      "name": "RegentCardsAnimeRework",
+      "version": "v0.5.1",
+      "source": null,
+      "hash": "1882f601ec0ee6231e3ca578c51b206ea1b8f609be559f5d199c4986d4cfe2be",
+      "files": [
+        "RegentCardsAnimeRework\\RegentCardsAnimeRework.dll",
+        "RegentCardsAnimeRework\\RegentCardsAnimeRework.json",
+        "RegentCardsAnimeRework\\RegentCardsAnimeRework.pck"
+      ],
+      "folder_name": "RegentCardsAnimeRework",
+      "mod_id": "RegentCardsAnimeRework",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/RegentCardsAnimeRework_0.5.1.zip"
+    },
+    {
+      "name": "Relic Reward Choice",
+      "version": "1.7.0",
+      "source": null,
+      "hash": "ad3e3cf7d684a8886e94a3ffcf12cf8774256f8245ca9fe8cf827eab2f964813",
+      "files": [
+        "RelicRewardChoice\\RelicRewardChoice.dll",
+        "RelicRewardChoice\\RelicRewardChoice.json",
+        "RelicRewardChoice\\RelicRewardChoice.pdb"
+      ],
+      "folder_name": "RelicRewardChoice",
+      "mod_id": "RelicRewardChoice",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/Relic_Reward_Choice_1.7.0.zip"
+    },
+    {
+      "name": "Remilia",
+      "version": "v0.0.1",
+      "source": null,
+      "hash": "6bb5ff1e59dead8bd4179bb0834ef2ca9a829b68fe153add93ce9d236a5a32ea",
+      "files": [
+        "Remilia\\Localization\\eng\\ancients.json",
+        "Remilia\\Localization\\eng\\cards.json",
+        "Remilia\\Localization\\eng\\card_keywords.json",
+        "Remilia\\Localization\\eng\\characters.json",
+        "Remilia\\Localization\\eng\\powers.json",
+        "Remilia\\Localization\\eng\\relics.json",
+        "Remilia\\Localization\\jpn\\ancients.json",
+        "Remilia\\Localization\\jpn\\cards.json",
+        "Remilia\\Localization\\jpn\\card_keywords.json",
+        "Remilia\\Localization\\jpn\\characters.json",
+        "Remilia\\Localization\\jpn\\powers.json",
+        "Remilia\\Localization\\jpn\\relics.json",
+        "Remilia\\Localization\\jpn\\static_hover_tips.json",
+        "Remilia\\Localization\\kor\\ancients.json",
+        "Remilia\\Localization\\kor\\cards.json",
+        "Remilia\\Localization\\kor\\card_keywords.json",
+        "Remilia\\Localization\\kor\\characters.json",
+        "Remilia\\Localization\\kor\\powers.json",
+        "Remilia\\Localization\\kor\\relics.json",
+        "Remilia\\Localization\\kor\\static_hover_tips.json",
+        "Remilia\\Localization\\zhs\\ancients.json",
+        "Remilia\\Localization\\zhs\\cards.json",
+        "Remilia\\Localization\\zhs\\card_keywords.json",
+        "Remilia\\Localization\\zhs\\characters.json",
+        "Remilia\\Localization\\zhs\\powers.json",
+        "Remilia\\Localization\\zhs\\relics.json",
+        "Remilia\\Localization\\zhs\\static_hover_tips.json",
+        "Remilia\\Remilia.dll",
+        "Remilia\\Remilia.json",
+        "Remilia\\Remilia.pck"
+      ],
+      "folder_name": "Remilia",
+      "mod_id": "Remilia",
+      "enabled": true
+    },
+    {
+      "name": "Rest Site Upgrade All",
+      "version": "0.1.0",
+      "source": null,
+      "hash": "149f88804b9ce8ddb49c06fd606dca4f6edc71807e5afcb76ba40d889913a7ed",
+      "files": [
+        "rest_site_upgrade_all\\rest_site_upgrade_all.dll",
+        "rest_site_upgrade_all\\rest_site_upgrade_all.json"
+      ],
+      "folder_name": "rest_site_upgrade_all",
+      "mod_id": "rest_site_upgrade_all",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/Rest_Site_Upgrade_All_0.1.0.zip"
+    },
+    {
+      "name": "RevampedSkulkingColony",
+      "version": "v0.0.0",
+      "source": null,
+      "hash": "0bd23264a755b61ac5e1d06b6ce13c195e95b6723b1210ea51708bc4c3bcf0bd",
+      "files": [
+        "RevampedSkulkingColony\\RevampedSkulkingColony.dll",
+        "RevampedSkulkingColony\\RevampedSkulkingColony.json",
+        "RevampedSkulkingColony\\RevampedSkulkingColony.pck"
+      ],
+      "folder_name": "RevampedSkulkingColony",
+      "mod_id": "RevampedSkulkingColony",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/RevampedSkulkingColony_0.0.0.zip"
+    },
+    {
+      "name": "Start With Miniature Tent",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "0d3ebf071b42443881b317f0f6de32c2bc268d106bb49004ab6b5f0627f784a6",
+      "files": [
+        "StartWithMiniatureTent\\StartWithMiniTent.dll",
+        "StartWithMiniatureTent\\StartWithMiniTent.json",
+        "StartWithMiniatureTent\\StartWithMiniTent.pck"
+      ],
+      "folder_name": "StartWithMiniatureTent",
+      "mod_id": "StartWithMiniTent",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/Start_With_Miniature_Tent_1.0.0.zip"
+    },
+    {
+      "name": "STS2-点击打牌",
+      "version": "2.2.5",
+      "source": null,
+      "hash": "4e204312e5f5ef7b20586d0acd2fee6ccbd5a0c556911c8ab1354a7c1d302eff",
+      "files": [
+        "STS2-点击打牌\\STS2JustClick.dll",
+        "STS2-点击打牌\\STS2JustClick.json"
+      ],
+      "folder_name": "STS2-点击打牌",
+      "mod_id": "STS2JustClick",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/STS2-点击打牌_2.2.5.zip"
+    },
+    {
+      "name": "STS2CardsMod",
+      "version": "1.1.0",
+      "source": null,
+      "hash": "ddc26918da729f0cb507deeea983434446bb98740883ff841a5e78fa047c9202",
+      "files": [
+        "STS2CardsMod\\STS2CardsMod.dll",
+        "STS2CardsMod\\STS2CardsMod.json"
+      ],
+      "folder_name": "STS2CardsMod",
+      "mod_id": "STS2CardsMod",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/STS2CardsMod_1.1.0.zip"
+    },
+    {
+      "name": "StS2Hoshino",
+      "version": "v0.0.11",
+      "source": null,
+      "hash": "fe3a0107f8399005e9f4f0b22aac461df70991b7fcedc9e9de39ea1c63f63d8f",
+      "files": [
+        "StS2Hoshino\\StS2Hoshino.dll",
+        "StS2Hoshino\\StS2Hoshino.json",
+        "StS2Hoshino\\StS2Hoshino.pck",
+        "StS2Hoshino\\StS2Hoshino.pck2857935.tmp",
+        "StS2Hoshino\\StS2Hoshino.pck2892407.tmp",
+        "StS2Hoshino\\StS2Hoshino.pck3135426.tmp"
+      ],
+      "folder_name": "StS2Hoshino",
+      "mod_id": "StS2Hoshino",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/StS2Hoshino_0.0.11.zip"
+    },
+    {
+      "name": "Unified Save Path",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
+      "files": [
+        "UnifiedSavePath\\UnifiedSavePath.dll",
+        "UnifiedSavePath\\UnifiedSavePath.json",
+        "UnifiedSavePath\\UnifiedSavePath.pck"
+      ],
+      "folder_name": "UnifiedSavePath",
+      "mod_id": "UnifiedSavePath",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/Unified_Save_Path_1.0.0.zip"
+    },
+    {
+      "name": "VoiceMod",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "9e564fb4abe4435eb983ebd0f9acd9f74ee364d4af54fce2e1f7b29a898f8350",
+      "files": [
+        "regentvoicemod\\mod_manifest.json",
+        "regentvoicemod\\VoiceMod.dll",
+        "regentvoicemod\\VoiceMod.pck"
+      ],
+      "folder_name": "regentvoicemod",
+      "mod_id": "voicemod",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/VoiceMod_1.0.0.zip"
+    },
+    {
+      "name": "Watcher",
+      "version": "v1.4.3",
+      "source": null,
+      "hash": "5d9d2852d229e062aea00b82fcc704042a9d972086b748e3a4e45b76b2894942",
+      "files": [
+        "Watcher\\Watcher.dll",
+        "Watcher\\Watcher.json",
+        "Watcher\\Watcher.pck"
+      ],
+      "folder_name": "Watcher",
+      "mod_id": "Watcher",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/Watcher_1.4.3.zip"
+    },
+    {
+      "name": "ZSproject",
+      "version": "unknown",
+      "source": null,
+      "hash": "4ce6ad9ea3ced6989fce3af2ce492d430cbaa8e0cb29a27058b70c4c4d794e55",
+      "files": [
+        "ZSproject\\ZSproject.dll",
+        "ZSproject\\ZSproject.pck"
+      ],
+      "folder_name": "ZSproject",
+      "enabled": true
+    },
+    {
+      "name": "二阶堂希罗角色模组",
+      "version": "v0.0.2",
+      "source": null,
+      "hash": "5b7e02788744ed55f9cb77cdfbf588a2599cbe2c8d3cf14f926af57f62287231",
+      "files": [
+        "CustomCharHiro\\CustomCharHiro.dll",
+        "CustomCharHiro\\CustomCharHiro.json",
+        "CustomCharHiro\\CustomCharHiro.pck"
+      ],
+      "folder_name": "CustomCharHiro",
+      "mod_id": "CustomCharHiro",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/二阶堂希罗角色模组_0.0.2.zip"
+    },
+    {
+      "name": "机娘“阿塔”",
+      "version": "0.1.3",
+      "source": null,
+      "hash": "d0e58dc0014a4872cb810b38cd803db7fda7c4bdc5a13c25e5d5b56385ea5fb0",
+      "files": [
+        "ATA_IronClad\\ATA_IronClad.dll",
+        "ATA_IronClad\\ATA_IronClad.pck",
+        "ATA_IronClad\\mod_manifest.json"
+      ],
+      "folder_name": "ATA_IronClad",
+      "mod_id": "ATA_IronClad",
+      "enabled": true
+    },
+    {
+      "name": "殺進夏萊",
+      "version": "v0.0.1",
+      "source": null,
+      "hash": "029673d64c1027f31492f355a2cc32164be9da1a831215024125817cb50febde",
+      "files": [
+        "SlayTheSchale\\Art_Resources.txt",
+        "SlayTheSchale\\mod_manifest.json",
+        "SlayTheSchale\\SlayTheSchale.dll",
+        "SlayTheSchale\\SlayTheSchale.pck",
+        "SlayTheSchale\\SlayTheSchale.pdb"
+      ],
+      "folder_name": "SlayTheSchale",
+      "mod_id": "SlayTheSchale",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/殺進夏萊_0.0.1.zip"
+    },
+    {
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": null,
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
+      "files": [
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.dll.bak.9210",
+        "ModConfig\\ModConfig.dll.bak.9278",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://raw.githubusercontent.com/dr-pepis/sts2mm-profiles/main/mods/皮皮配置__ModConfig_0.2.3.zip"
+    },
+    {
+      "name": "霞沢美游[Kasumizawa Miyu]",
+      "version": "1.0.3.7.12.4",
+      "source": null,
+      "hash": "8f210ff51ce3d7ace3a45f9a09e077af5e9a185117961bc2cd4afaefe0d6b039",
+      "files": [
+        "Miyu_character\\Miyu_character.dll",
+        "Miyu_character\\Miyu_character.json",
+        "Miyu_character\\Miyu_character.pck"
+      ],
+      "folder_name": "Miyu_character",
+      "mod_id": "Miyu_character",
+      "enabled": true
+    }
+  ],
+  "created_at": "2026-05-14T22:54:12.100826200Z",
+  "updated_at": "2026-05-14T22:54:12.100826200Z",
+  "public": true
+}
